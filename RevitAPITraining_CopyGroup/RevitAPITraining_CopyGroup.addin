@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPITraining_CopyGroup.dll"</Assembly>
+		<AddInId>1F89E4D5-C90D-48C5-8635-34D5A43BA231</AddInId>
+		<FullClassName>RevitAPITraining_CopyGroup.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Копирование группы объектов</Text>
+	</AddIn>
+</RevitAddIns>
